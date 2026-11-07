@@ -2,8 +2,8 @@
 
 Responsive event management site: browse upcoming events, search and filter, view details and register.
 
-**Live site:** _add your Vercel / Netlify / GitHub Pages link_
-**Repository:** _add your GitHub link_
+**Live site:** https://evento-gamma-roan.vercel.app
+**Repository:** https://github.com/ImRAryan/evento
 
 ## Tech stack
 React 18, Vite, Tailwind CSS v4, JavaScript (ES modules), Git/GitHub.
