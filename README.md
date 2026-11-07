@@ -3,6 +3,7 @@
 Responsive event management site: browse upcoming events, search and filter, view details and register.
 
 **Live site:** https://evento-gamma-roan.vercel.app
+
 **Repository:** https://github.com/ImRAryan/evento
 
 ## Tech stack
